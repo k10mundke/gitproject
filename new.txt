@@ -1,3 +1,2 @@
-Hello Ketan
+Hello Ketan
 Learning Git
-Updating this file
