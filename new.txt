@@ -1,3 +1,6 @@
 Hello Ketan
 Learning Git
 Online
+=======
+Updated
+>>>>>>> development
